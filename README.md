@@ -67,6 +67,7 @@ Bridging grassroots realities with structured data insights. Building monitoring
     <h2>Projects</h2>
     <div class="card">
         <h3>Sales Performance Dashboard</h3>
+        ![Dashboard](PowerBi_Dashboard.png)
         <p>Power BI dashboard analysing key RMNCH indicators for strategic intervention planning.</p>
     </div>
 
