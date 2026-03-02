@@ -66,7 +66,7 @@ Bridging grassroots realities with structured data insights. Building monitoring
 <section>
     <h2>Projects</h2>
     <div class="card">
-        <h3>District Health Indicator Dashboard</h3>
+        <h3>Sales Performance Dashboard</h3>
         <p>Power BI dashboard analysing key RMNCH indicators for strategic intervention planning.</p>
     </div>
 
